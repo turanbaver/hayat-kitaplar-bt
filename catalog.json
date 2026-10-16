@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-16T13:39:33.149Z",
+ "updatedAt": "2026-10-16T13:57:52.263Z",
  "books": [
   {
    "id": "ashab-i-suffe",
@@ -25,6 +25,68 @@
      "path": "cover.jpg",
      "size": 140928,
      "sha256": "27b4b9f48aa70d2d4d3715d680fb7850fc1249f6b20022a402e21d23bf3ec46a"
+    }
+   ]
+  },
+  {
+   "id": "kuran-i-kerim-hatli",
+   "version": 1,
+   "format": "pdf",
+   "title": "Kur'an-ı Kerîm (Bilgisayar Hatlı)",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "ar",
+   "cover": "#6B4A2B",
+   "coverImage": "cover.jpg",
+   "author": "Diyanet İşleri Başkanlığı",
+   "description": "Diyanet İşleri Başkanlığı tarafından bilgisayar hattıyla basılmış Kur’an-ı Kerim’dir.",
+   "size": 24353373,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 699,
+     "sha256": "ce4628c01b2d1767dd2421a8756528646423e4db2f211e9310c349d030e3a79e"
+    },
+    {
+     "path": "kuran-i-kerim-hatli.pdf",
+     "size": 24129254,
+     "sha256": "fa88e87198fa9cadee797cd3ac1d3d41e4c4c7776d97b4fee02c32e0a14cb0f7"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 223420,
+     "sha256": "863820f40541893e73c763eb3852f5205c56493a0d61f45c68e32fb043bad097"
+    }
+   ]
+  },
+  {
+   "id": "kuran-i-kerim-meali",
+   "version": 1,
+   "format": "pdf",
+   "title": "Kur'an-ı Kerîm Meâli",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#1F3A6B",
+   "coverImage": "cover.jpg",
+   "author": "Doç. Dr. Halil Altuntaş, Dr. Muzaffer Şahin",
+   "description": "Yüce Kitabımız Kur'an-ı Kerim'in Diyanet İşleri Başkanlığı tarafından hazırlanmış mealidir.",
+   "size": 4362375,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 712,
+     "sha256": "0a16d42c81ecb29ea998b6304bc52b4820724f6001642d8d3c6fe10c3f8252c3"
+    },
+    {
+     "path": "kuran-i-kerim-meali.pdf",
+     "size": 4032422,
+     "sha256": "41af26d0147d792d0e9bc7a3eaef6fc1d2466470ede9732377db3e73eb6707be"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 329241,
+     "sha256": "5613e42f6c1345678be450cec7655b91b8375d1e6c35ee8422dc122fb177caf7"
     }
    ]
   }
