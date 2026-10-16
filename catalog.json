@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-16T20:18:26.974Z",
+ "updatedAt": "2026-10-16T20:46:04.643Z",
  "books": [
   {
    "id": "allaha-iman",
@@ -55,28 +55,34 @@
    ]
   },
   {
-   "id": "hadislerle-adim-adim-hacca",
+   "id": "delailul-hayrat",
    "version": 1,
-   "format": "text",
-   "title": "Hadislerle Adım Adım Hacca",
+   "format": "pdf",
+   "title": "Delâilü'l-Hayrât",
+   "subtitle": "Salavât-ı şerîfe · haftalık virdler",
    "kind": "kitap",
    "shelf": "books",
-   "lang": "tr",
-   "cover": "#8A6A3B",
+   "lang": "ar-tr",
+   "cover": "#6B4423",
    "coverImage": "cover.jpg",
-   "author": "Diyanet İşleri Başkanlığı",
-   "description": "İnsanoğlunun yeryüzü imtihanına ilk günden itibaren şahitlik eden Mekke ve çevresi, Kabe’nin izinde mukaddes belde olarak tarih boyunca değerli olmuştur. Kabe’ye yönelen her yürek Hz. İbrahim’in çağrısına cevap vererek mübarek bir arınmaya çıkmış; hac, meşakkatte arınmayı, sabırda huzuru arayanların seferi olmuştur. Eser, tarihçesinden başlamak üzere; hacca gitmeyi düşünenlerde; kıblesi, Kabe’si, tavafı, kurbanı, zemzemi ve bayramı ile her açıdan haccı zihinlerinde canlandırmaktadır.",
-   "size": 462272,
+   "author": "Süleyman el-Cezûlî",
+   "description": "Süleyman el-Cezûlî'nin salavât-ı şerîfe kitabı: önsöz, mukaddime, dualar, Esmâü'l-Hüsnâ, Esmâ-i Nebî, haftanın günlerine ayrılmış virdler ve hatim duası. Arapça metin resim olduğu için PDF olduğu gibi eklendi.",
+   "size": 11443525,
    "files": [
     {
      "path": "book.json",
-     "size": 260521,
-     "sha256": "9b91669c65d1487faca944eb192c36fb391f4d0b23e2057b3fc3e75b003fa170"
+     "size": 1671,
+     "sha256": "efe59eab3e6a3c8b77b922a7229151d4ff32dddbb8ba1117c155dfbaa1f8471d"
+    },
+    {
+     "path": "delailul-hayrat.pdf",
+     "size": 11379061,
+     "sha256": "fe004956e9e0e0bf65157b868051f3ec320407f7e85b4a1c1832922f31178291"
     },
     {
      "path": "cover.jpg",
-     "size": 201751,
-     "sha256": "ec37b6d56ff5181356501e013ab86c28d2d9c7847e98cd6a3e4eb6edfa103fd7"
+     "size": 62793,
+     "sha256": "44ced73ed3f1b25f0c9d70f4feb6a10552ee86007e0cf4b1b0670984be9c9ca6"
     }
    ]
   },
@@ -372,6 +378,134 @@
    ]
   },
   {
+   "id": "kuran-yolu-tefsir-4-1",
+   "version": 1,
+   "format": "pdf",
+   "title": "Kur'an Yolu Tefsiri · 4. Cilt (1. kısım)",
+   "subtitle": "Mü’minûn–Ahzâb sûreleri",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#1F4E79",
+   "coverImage": "cover.jpg",
+   "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
+   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu kısım: Mü’minûn–Ahzâb sûreleri.",
+   "size": 31026718,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 2321,
+     "sha256": "35b3c30359c92f8f2ce945ed551333a4be6a75af1e63f55305aa9d93556b2bcb"
+    },
+    {
+     "path": "kuran-yolu-tefsir-4-1.pdf",
+     "size": 30839123,
+     "sha256": "59fd6a80a13e6a1268362dcbf2b9d942c18ba2772580a50f1c137f27e1c0be6b"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 185274,
+     "sha256": "41605711236f376517b979ce26a8ef01332c91f642c34eeabd34dba16386d703"
+    }
+   ]
+  },
+  {
+   "id": "kuran-yolu-tefsir-4-2",
+   "version": 1,
+   "format": "pdf",
+   "title": "Kur'an Yolu Tefsiri · 4. Cilt (2. kısım)",
+   "subtitle": "Sebe’–Duhân sûreleri",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#1F4E79",
+   "coverImage": "cover.jpg",
+   "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
+   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu kısım: Sebe’–Duhân sûreleri.",
+   "size": 27648631,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 2283,
+     "sha256": "e18ec5238106e7719e35b44ecbf9439e3d80a562aef67c4a502c1bf6c3b614e1"
+    },
+    {
+     "path": "kuran-yolu-tefsir-4-2.pdf",
+     "size": 27461074,
+     "sha256": "9d5a07544cb51750b6e1eba6cda7876834c6ede64c35aee10f0ab2f886306acf"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 185274,
+     "sha256": "41605711236f376517b979ce26a8ef01332c91f642c34eeabd34dba16386d703"
+    }
+   ]
+  },
+  {
+   "id": "kuran-yolu-tefsir-5-1",
+   "version": 1,
+   "format": "pdf",
+   "title": "Kur'an Yolu Tefsiri · 5. Cilt (1. kısım)",
+   "subtitle": "Câsiye–Talâk sûreleri",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#1F4E79",
+   "coverImage": "cover.jpg",
+   "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
+   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu kısım: Câsiye–Talâk sûreleri.",
+   "size": 26310135,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 2863,
+     "sha256": "909f9e64a5d48c22dd267add5387231374d863f53c214418f85cc4be894142bc"
+    },
+    {
+     "path": "kuran-yolu-tefsir-5-1.pdf",
+     "size": 26123641,
+     "sha256": "dd5877cae1e1e91ea9283fd8cbb6c0358c46507a0c3649781e8485847ad99c29"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 183631,
+     "sha256": "5c7b7f99cd5f10a740ac70341cda1dd6132807c0b47ce55610793422d8c9291c"
+    }
+   ]
+  },
+  {
+   "id": "kuran-yolu-tefsir-5-2",
+   "version": 1,
+   "format": "pdf",
+   "title": "Kur'an Yolu Tefsiri · 5. Cilt (2. kısım)",
+   "subtitle": "Tahrîm–Nâs sûreleri",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#1F4E79",
+   "coverImage": "cover.jpg",
+   "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
+   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu kısım: Tahrîm–Nâs sûreleri.",
+   "size": 29971025,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 4332,
+     "sha256": "882d776a3a6f9071ac636b0eaec86c7b4094e091d4511218fe533e00b0d70f7b"
+    },
+    {
+     "path": "kuran-yolu-tefsir-5-2.pdf",
+     "size": 29783062,
+     "sha256": "5e948aa6d9a4ac000b2ed2b21a14f75da80ff9d9d2f29f5cb3e905afb5fa3acc"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 183631,
+     "sha256": "5c7b7f99cd5f10a740ac70341cda1dd6132807c0b47ce55610793422d8c9291c"
+    }
+   ]
+  },
+  {
    "id": "meleklere-iman",
    "version": 1,
    "format": "text",
@@ -394,37 +528,6 @@
      "path": "cover.jpg",
      "size": 114623,
      "sha256": "7931a82709b4dce27e4da624c64ce711c41d7ecb58fda17c4d94417eb5f510e9"
-    }
-   ]
-  },
-  {
-   "id": "mevlid-kulliyati-1",
-   "version": 1,
-   "format": "pdf",
-   "title": "Mevlid Külliyatı · Süleyman Çelebi, Vesîletü'n-Necât ve Tercümeleri 1",
-   "kind": "kitap",
-   "shelf": "books",
-   "lang": "tr",
-   "cover": "#6B1F2E",
-   "coverImage": "cover.jpg",
-   "author": "Diyanet İşleri Başkanlığı",
-   "description": "Hz. Peygamber (s.a.s.) için müstakil olarak kaleme alınan edebî türlerin en yaygın olanlarından biridir, mevlidler. Mevlidler, Peygamber sevgisiyle birlikte İslam’ın tevhid anlayışını, varlık tasavvurunu, ahlak ve bilgi telakkisini gayet estetik bir üslupla sanatsal bir çerçevede sunan edebî eserler olarak önem taşırlar. Bu şaheserlerin “öncü metni”, bir “kurucu metin” olarak temayüz eden Süleyman Çelebi’nin Vesîletü’n-Necât’ıdır. Vesîletü’n-Necât… Kurtuluş vesilesi. Neden kurtuluş? İçine düşülen fetretten kurtuluş! Süleyman Çelebi’ye göre fetret, Hz. Peygamber’in manevi şahsiyetine, Kur’an, sünnet ve dinine bağlanmakla aşılacaktır. Bu bakımdan Vesîletü’n-Necât, müminlerin Hz. Peygamber’e olan bağlılıklarını yenileyen ve kuvvetlendiren bir metindir. Burada üzerinde durulan Hakîkat-i Muhammedî ve Nûr-ı Muhammedî meselesinin temel saiki, varlığın merkezine Hz. Peygamber’i koyarak bir varlık anlayışına ve bir dünya tasavvuruna ulaşmaktır. Süleyman Çelebi bu derin felsefi mülahazayı eserinde muhteşem üslûbuyla dile getirmiştir. Geriye bıraktığı biricik eseriyle Süleyman Çelebi, altı yüz yıldır bu toprakları mayalamanın yanında; Rumca, Arapça, İngilizce, Almanca, Boşnakça, Arnavutça, Çerkesçe ve Gürcüce’ye yapılan çevirileriyle oldukça geniş bir kültür havzasına sesleniyor.",
-   "size": 20928024,
-   "files": [
-    {
-     "path": "book.json",
-     "size": 2131,
-     "sha256": "560c065cf3195872dcbdf9af7970a905529380f6a1ec88b0e2d09ef4c70c204c"
-    },
-    {
-     "path": "mevlid-kulliyati-1.pdf",
-     "size": 20762270,
-     "sha256": "9955ed4b12f8f394906b6830677fff8292a624e6c5c71734aeee13a72b849768"
-    },
-    {
-     "path": "cover.jpg",
-     "size": 163623,
-     "sha256": "d4fef9ef98f17038208036ccbe126a95ccf7076283a4d888a1439693f8fce1da"
     }
    ]
   },
