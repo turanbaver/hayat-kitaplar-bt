@@ -1,10 +1,36 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-16T13:57:52.263Z",
+ "updatedAt": "2026-10-16T20:18:26.974Z",
  "books": [
   {
-   "id": "ashab-i-suffe",
+   "id": "allaha-iman",
    "version": 1,
+   "format": "text",
+   "title": "Allah'a İman",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#5B7553",
+   "coverImage": "cover.jpg",
+   "author": "Yrd.Doç.Dr. Ulvi Murat Kılavuz",
+   "description": "İman esasları, İslâm âlimleri tarafından “usûlü’d-dîn” (dinin temelleri) olarak isimlendirilmiştir. Diğer bütün esaslar Allah’a imana dayandığı, O’na iman edilmedikçe diğer esaslardan bahsedilemeyeceği için Allah’a iman “aslü’l-usûl” (dinin temel direği) olarak bilinmiştir. Allah inancını konu edinen elinizdeki eserde işlenecek konular Allah’ın varlığı, isimleri ve sıfatları şeklinde üç temel başlık halinde ele alınmıştır. Bu hususlar temel kaynaklar ışığında ortaya konulmaya çalışılırken özellikle Kur’ân-ı Kerim ile Hz. Peygamber’in sahih hadislerine dayanmaya özen gösterilmiş, konular aşırı ayrıntılara ve mezhepler arasındaki görüş farklılıklarına girmeden anlatılmaya gayret edilmiştir.",
+   "size": 296023,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 200554,
+     "sha256": "25d7924669417648acb92595087c82e46f9276bdc9ccb8d5412e99200a6a797a"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 95469,
+     "sha256": "a1f41bfab492b99e4eabd570e5d70d2f16b1eabe800b692f01a270f0033e3f6e"
+    }
+   ]
+  },
+  {
+   "id": "ashab-i-suffe",
+   "version": 2,
    "format": "text",
    "title": "Mescid-i Nebevî’nin Gölgesinde Ashab-ı Suffe",
    "kind": "kitap",
@@ -14,17 +40,179 @@
    "coverImage": "cover.jpg",
    "author": "Doç. Dr. Yaşar Akaslan",
    "description": "“Dostlar, arkadaşlar” anlamındaki “ashab” ile “gölgelik” manasına gelen “suffe” kelimelerinden oluşan “Ashabı Suffe”; Mescid-i Nebevinin giriş kısmında ikamet eden ve orada Hz. Peygamber (s.a.s)’in gölgesinde ilim tahsil edenleri ifade etmektedir. Allah Resulünün mesajını içtenlikle benimseyen ve bu mesajı farklı coğrafyalara ve nesillere aktaran bu samimi şahsiyetler, kendilerinden sonraki Müslüman kuşaklar için kaynaklık ve örneklik teşkil etmişlerdir. Eserde bu örnek şahsiyetlerden; “Mus’ab b. Umeyr, Bilal-i Habeşi, Ammar b. Yasir, Abdullah b. Mes’ud, Habbab b. Eret, Sa’d b. Ebu Vakkas, Ebu Zer el-Gıfari, Abdullah b. Ömer, Selman-ı-Farisi, Ebu Said el-Hudri, Suheyb b. Sinan, Ebu Hüreyre, Huzeyfe b. Yeman, Ebü’d-Derda, Ebu Ubeyde b. Cerrah, Osman b. Maz’un, Salim Mevla Ebu Huzeyfe, Amr b. Abese, Abdullah Zülbicadeyn, Sevban b. Bücdüd, Zeyd b. Hattab, Mikdad b. Esved, Bera b. Malik” anlatılmaktadır.",
-   "size": 692638,
+   "size": 693041,
    "files": [
     {
      "path": "book.json",
-     "size": 551710,
-     "sha256": "98922a49674f0326e196340d43868faf52e3937ab03a62ae5fe8ab2c747baa96"
+     "size": 552113,
+     "sha256": "2685cb0b71da0d8b5e979ded7df08da99f08fbcea3d5e9584012d0493ff4bf1d"
     },
     {
      "path": "cover.jpg",
      "size": 140928,
      "sha256": "27b4b9f48aa70d2d4d3715d680fb7850fc1249f6b20022a402e21d23bf3ec46a"
+    }
+   ]
+  },
+  {
+   "id": "hadislerle-adim-adim-hacca",
+   "version": 1,
+   "format": "text",
+   "title": "Hadislerle Adım Adım Hacca",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#8A6A3B",
+   "coverImage": "cover.jpg",
+   "author": "Diyanet İşleri Başkanlığı",
+   "description": "İnsanoğlunun yeryüzü imtihanına ilk günden itibaren şahitlik eden Mekke ve çevresi, Kabe’nin izinde mukaddes belde olarak tarih boyunca değerli olmuştur. Kabe’ye yönelen her yürek Hz. İbrahim’in çağrısına cevap vererek mübarek bir arınmaya çıkmış; hac, meşakkatte arınmayı, sabırda huzuru arayanların seferi olmuştur. Eser, tarihçesinden başlamak üzere; hacca gitmeyi düşünenlerde; kıblesi, Kabe’si, tavafı, kurbanı, zemzemi ve bayramı ile her açıdan haccı zihinlerinde canlandırmaktadır.",
+   "size": 462272,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 260521,
+     "sha256": "9b91669c65d1487faca944eb192c36fb391f4d0b23e2057b3fc3e75b003fa170"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 201751,
+     "sha256": "ec37b6d56ff5181356501e013ab86c28d2d9c7847e98cd6a3e4eb6edfa103fd7"
+    }
+   ]
+  },
+  {
+   "id": "hadislerle-aile",
+   "version": 1,
+   "format": "text",
+   "title": "Hadislerle Aile",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#7B4B7A",
+   "coverImage": "cover.jpg",
+   "author": "Komisyon",
+   "description": "Dinimizin aileye bakışını ve ona yüklediği değeri bilmek, aileyi ayakta tutan temel ahlaki değerleri kavramak, aile hayatımızı yeniden gözden geçirip düzenlememize yardımcı olacak, yeni bir aile kuracak olanlara ufuk açacaktır. Bu amaçla, Hz. Peygamber’in (s.a.s.) hikmet ve rahmet dolu dünyasını ve çağlar üstü örnekliğini günümüz insanına ulaştırmayı amaçlayan bu eser, “Hadislerle İslam” külliyatından derlenerek hazırlanmıştır.",
+   "size": 329275,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 210378,
+     "sha256": "1427436ee0c8382b963f26f43116cf635e1ba158312a9020b6456c6a68d98110"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 118897,
+     "sha256": "c3649fc358fbbca82d16e34633d62de6a20e73f75130f0241a14418a1522514f"
+    }
+   ]
+  },
+  {
+   "id": "hz-peygamber-ve-insan-onuru",
+   "version": 1,
+   "format": "pdf",
+   "title": "Hz. Peygamber ve İnsan Onuru",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#6B5B2E",
+   "coverImage": "cover.jpg",
+   "author": "Diyanet İşleri Başkanlığı",
+   "description": "Peygamber Efendimizin (s.a.s.) insanlığa getirdiği mesajın varlık anlayışında insan, yaratılmışların en saygını ve varlığın özüdür. İnsanın fıtrat ve yaratılış itibariyle onurlu bir varlık olması, İslam’ın varlık, bilgi ve değer anlayışını şekillendiren temel unsurlardan biri olmuştur. İnsanı onurlu veya onursuz kılan; ırk, renk, zenginlik, soy-sop gibi maddi ve geçici şeyler değil davranışlarıdır. İslam insan onuruna dair bütüncül bir bakış açısı sunar. İnsan ve insan onuru, maddesi ve manasıyla, bedeni ve ruhuyla bir bütündür, parçalanamaz. Tarih içerisinde bilim ve teknoloji alanlarındaki gelişmelerin kendisini insan onurunun korunması ve yüceltilmesinde göstermediğini söyleyen eser, içinde bulunduğumuz dönemin insan onurunun had safhada zedelendiği talihsiz bir zaman dilimi olarak anılmasına dikkat çekiyor. Ayrımcılığın, ırkçılığın, yabancı düşmanlığının bu denli yaygınlaştığı günlerde insanın göğün kapılarına sırtını çevirerek kendi oluşturduğu yapay sorunların içerisinde kaybolmasına değiniyor. Hem ülkemiz insanını hem de bütün insanlığı ilgilendiren insan onuru meselesini farkı boyutları ile ele almaya çalışan eser, İslam dininin insan onuruna verdiği değeri, Kur’an-ı Kerim’in insan onurunu temele alarak inşa ettiği insan anlayışında ve Peygamber Efendimizin örnek hayatında göstermeyi amaçlıyor. İçinde insan ve insan onuruna dair önemli denemelerin, İslam hukukunda insan onuruna dayalı hükümlerle ilgili yazıların ve nice akademik çalışmaların bulunduğu eser okuyucuları ile buluşmayı bekliyor.",
+   "size": 1628532,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 2318,
+     "sha256": "55272a0c4c20944b2aad5a978b9de605df0ded63f826b09e7dc2541efc8a760e"
+    },
+    {
+     "path": "hz-peygamber-ve-insan-onuru.pdf",
+     "size": 1586778,
+     "sha256": "358db08801b558c7c4d7a63f39718dcd2f4de4d75d5e5614b98a6d438ad04cd2"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 39436,
+     "sha256": "a19afd005a955d2603ce03f81c8b641f13586bef36f41864bf0fb2bfebbd07e2"
+    }
+   ]
+  },
+  {
+   "id": "islam-nedir",
+   "version": 1,
+   "format": "text",
+   "title": "İslam Nedir?",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#2F5D50",
+   "coverImage": "cover.jpg",
+   "author": "Prof. Dr. Huriye Martı",
+   "description": "Eserde, İslam’ın temel ibadet ve ahlak esasları anlaşılır bir dil ve kuşatıcı bir içerikle ortaya konuluyor. Ele alınan meseleler ilgili ayet veya hadislerle anlatılıyor. İnsanın yaratılışı, dine ihtiyaç duymanın gerekçeleri, imanın hakikati ve imanın altı esası müstakil kısımlarda ayrı ayrı açıklanıyor. İbadet etme ve kul olma arasındaki ilişki ele alınarak kelime-i şehadet inceleniyor. Ayrıca adalet, ilim ve hikmet, nezaket ve merhamet kavramlarının dinimizde ihtiva ettiği önem ve İslam’ın Müslümanda bulunmasını beklediği niteliklerden bahsediliyor.",
+   "size": 256349,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 125316,
+     "sha256": "548fee64cab8618d2d8ff6c7755392d6e39f9380c9eac8afc3addebc1515ceae"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 131033,
+     "sha256": "5df5457597121d0ed28723a08da96e8bd8aa6c956b83f192be3a044e0c299789"
+    }
+   ]
+  },
+  {
+   "id": "kadere-iman",
+   "version": 1,
+   "format": "text",
+   "title": "Kadere İman",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#3E6A8A",
+   "coverImage": "cover.jpg",
+   "author": "Prof.Dr. Cağfer Karadaş",
+   "description": "Kader, Hz. Âdem’den itibaren insan zihnini meşgul eden önemli meselelerden biridir. “Allah’ın geleceğe dair ilmi ve planlaması” anlamına gelen kader her şeyden önce kişinin gelecekteki hayatını ilgilendirmektedir. Bu yüzden insan, yaratılışından itibaren hem içinde bulunduğu evrenin ve sakinlerinin hem de kendisinin geleceğini merak etmiş, kendince geleceğiyle ilgili öngörüler ve çözümler üretmeye çalışmıştır. Ancak zamanın “şimdi” noktası ile sınırlı bulunan insanoğlu gelecek konusunda kesin bir bilgiye sahip olamamış ve sürekli bir çözümsüzlük duygusu hissetmiştir. Söz konusu duygu zaman içinde onun zihninde geleceğe dönük bir kaygı yumağının oluşmasına da sebep olmuştur. Bu anlamıyla gelecek kaygısı insanın en zayıf tarafını oluşturmaktadır. Çünkü o, daha çok bu yönünden etki altında kalmakta, aldatılmakta veya aldanmaktadır. Günümüz insan grupları içinde özellikle dinî inançları zayıf olanların “gelecek” korkusu, tarihte olduğu gibi devam etmektedir. Bu arada yıldız, gezegen ve burçlarda mânevî güç olduğuna inanan ve bunların gelecek (kader) üzerinde belirleyici rollerinin bulunduğunu vehmeden insanların sayısı da az değildir. Bunun bir sonucu olarak falcılık, cincilik, ruhçuluk ve medyumluk yöntemleri yayılma alanları bulabilmektedir. Günümüz insanının bu tür aldanmalardan kurtulması, kader inancının sağlıklı ve sağlam bir zemine oturtulmasına bağlıdır. Bu da ancak Allah’ın kudreti ve evrenin işleyişiyle insanın özgürlüğü ve sorumluluğu hakkında güvenilir kaynaklardan tutarlı ve doğru bilgilerin sunulmasıyla mümkün olur. Kader konusuna ayrılan bu kitabın telifi sırasında söz konusu unsurlar dikkate alınmıştır.",
+   "size": 219725,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 103285,
+     "sha256": "694d47717c71c6b06efc9b1f8f07100837a26665d6dda296e2fe3a6aeab742a1"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 116440,
+     "sha256": "3ab80327ffc2a52c1fb961304f31807e3e546ecbdf0ad77ce68dbabd53c95e94"
+    }
+   ]
+  },
+  {
+   "id": "kuran-i-kerim",
+   "version": 1,
+   "format": "text",
+   "title": "Kur'an-ı Kerîm",
+   "subtitle": "114 sûre · Arapça ve meal · Medine mushafı sayfa düzeni",
+   "kind": "sure",
+   "shelf": "books",
+   "lang": "ar",
+   "cover": "#1F5C4A",
+   "coverImage": "cover.jpg",
+   "author": "Tanzil Projesi (Arapça) · Diyanet İşleri (meal)",
+   "description": "Kur'an-ı Kerîm'in tamamı: 114 sûre, 6236 âyet. Arapça metin Tanzil Projesi'nin doğrulanmış Uthmani metninden harfi harfine; meal Diyanet İşleri Başkanlığı. Sûre sûre ya da Medine mushafı düzeninde sayfa sayfa (604 sayfa, 30 cüz) okunur.",
+   "size": 2644682,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 2573831,
+     "sha256": "d58110970d422c86f7b773205fea4b7dc4becf3509a115896ecf09b0077f90a1"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 70851,
+     "sha256": "0f83c7ad042db9e5f10791c02681193e8a39d53deac8bee81bd8bf997ae5ceb9"
     }
    ]
   },
@@ -87,6 +275,208 @@
      "path": "cover.jpg",
      "size": 329241,
      "sha256": "5613e42f6c1345678be450cec7655b91b8375d1e6c35ee8422dc122fb177caf7"
+    }
+   ]
+  },
+  {
+   "id": "kuran-yolu-tefsir-1",
+   "version": 1,
+   "format": "pdf",
+   "title": "Kur'an Yolu Tefsiri · 1. Cilt",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#1F4E79",
+   "coverImage": "cover.jpg",
+   "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
+   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur.",
+   "size": 37410011,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 1524,
+     "sha256": "94e025ff3e15fa08573ad6c00e197b64bb5de459496fb7593c50170b894fea65"
+    },
+    {
+     "path": "kuran-yolu-tefsir-1.pdf",
+     "size": 37227424,
+     "sha256": "07000f1c583acdfdbbc731e18e0c75b9840beb9a4f39644a2ca5638ccc4b1dc5"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 181063,
+     "sha256": "7a7db40d48e33b9c86104f430252612b53020122df71fc5ab6251fb1a08ae203"
+    }
+   ]
+  },
+  {
+   "id": "kuran-yolu-tefsir-2",
+   "version": 1,
+   "format": "pdf",
+   "title": "Kur'an Yolu Tefsiri · 2. Cilt",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#1F4E79",
+   "coverImage": "cover.jpg",
+   "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
+   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur.",
+   "size": 56035996,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 1491,
+     "sha256": "f147841daa9d6111867e554559a13f872c294e04fcf3e8c21f67ab2c38792aaa"
+    },
+    {
+     "path": "kuran-yolu-tefsir-2.pdf",
+     "size": 55853390,
+     "sha256": "f6eef644bc6a68d9104cdfc73c08c2edf138f57a44c35a1f82460ebb31f601ae"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 181115,
+     "sha256": "af94038d9f988beb4f87037d5fe11670e995d0dfda43cb0e71b1d6dad337add2"
+    }
+   ]
+  },
+  {
+   "id": "kuran-yolu-tefsir-3",
+   "version": 1,
+   "format": "pdf",
+   "title": "Kur'an Yolu Tefsiri · 3. Cilt",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#1F4E79",
+   "coverImage": "cover.jpg",
+   "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
+   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur.",
+   "size": 90965650,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 1524,
+     "sha256": "dc160f71c1df7ab2bce7dcf4bc7c2a1a933fd7ba17b214d6b3d146a937eabbb8"
+    },
+    {
+     "path": "kuran-yolu-tefsir-3.pdf",
+     "size": 90762805,
+     "sha256": "1e70e3bb26fd2c1c7e1f8034023633ff2867fd4cc8592d3ebdf5f253ec980201"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 201321,
+     "sha256": "21eba0d406692387742dd35884f42c3c42250ac238eb86f34b36d54f28ff6781"
+    }
+   ]
+  },
+  {
+   "id": "meleklere-iman",
+   "version": 1,
+   "format": "text",
+   "title": "Meleklere İman",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#7A5C3E",
+   "coverImage": "cover.jpg",
+   "author": "Prof.Dr. Kamil Güneş",
+   "description": "Elinizdeki kitabın temel amacı melekler hakkında dinî kaynaklara dayalı bilgi vermektir. Eserin birinci bölümünde meleklerin varlıklarının gerçek olduğu, kendilerine ait bazı niteliklerinin bulunduğu, çeşitleri ve görevleri gibi konulara yer verilmiştir. Ayrıca insanlarla melekler arasındaki ilişkiler ve melek inancının hayatımıza yansımaları gibi hususlar ele alınmıştır. Kitabın diğer bölümlerinde meleklere imanla doğrudan ilgili olmayan ancak “görünmeyen varlıklar” olması bakımından işlenmesinde fayda mülâhaza edilen cinler ve şeytan konusuna yer verilmiştir. Bu çerçevede ikinci bölüm cinlere ayrılmıştır. Burada cinlerin varlıklarının da gerçek olduğu, mahiyet ve özellikleri üzerinde durulmuş, cinlerin insanlarla ilişkileri hususu da bu bölümde işlenmiştir. Üçüncü bölümde ise şeytan konusu ele alınmıştır. Şeytanın mahiyeti, Hz. Âdem ile olan kıssası, şer odaklı bir varlık olarak insanlara yönelik hedefleri ve yaptıkları, yaratılışının hikmeti ve kıyamet günündeki durumu bu bölümde incelenmiştir. Duyularla algılanamayan melek, cin ve şeytan konularında doğru bilgiyi Hz. Peygamber’den öğrenmek durumunda olduğumuz kesindir. Gerek Kur’ân-ı Kerim gerek hadîs-i şerifler, gaybla ilgili hususlarda Müslümanlar için en sağlıklı bilgi kaynaklarıdır. Kitabın içeriğinde akla gelebilecek sorulara Kur’an, hadis ve akıl bağlamında cevap bulmaya çalışılıyor.",
+   "size": 304281,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 189658,
+     "sha256": "4466aeffe3b1ed8b9168ab6d49a0e7f4ee5da33e2bac4ee6e6e9381486b3857f"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 114623,
+     "sha256": "7931a82709b4dce27e4da624c64ce711c41d7ecb58fda17c4d94417eb5f510e9"
+    }
+   ]
+  },
+  {
+   "id": "mevlid-kulliyati-1",
+   "version": 1,
+   "format": "pdf",
+   "title": "Mevlid Külliyatı · Süleyman Çelebi, Vesîletü'n-Necât ve Tercümeleri 1",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#6B1F2E",
+   "coverImage": "cover.jpg",
+   "author": "Diyanet İşleri Başkanlığı",
+   "description": "Hz. Peygamber (s.a.s.) için müstakil olarak kaleme alınan edebî türlerin en yaygın olanlarından biridir, mevlidler. Mevlidler, Peygamber sevgisiyle birlikte İslam’ın tevhid anlayışını, varlık tasavvurunu, ahlak ve bilgi telakkisini gayet estetik bir üslupla sanatsal bir çerçevede sunan edebî eserler olarak önem taşırlar. Bu şaheserlerin “öncü metni”, bir “kurucu metin” olarak temayüz eden Süleyman Çelebi’nin Vesîletü’n-Necât’ıdır. Vesîletü’n-Necât… Kurtuluş vesilesi. Neden kurtuluş? İçine düşülen fetretten kurtuluş! Süleyman Çelebi’ye göre fetret, Hz. Peygamber’in manevi şahsiyetine, Kur’an, sünnet ve dinine bağlanmakla aşılacaktır. Bu bakımdan Vesîletü’n-Necât, müminlerin Hz. Peygamber’e olan bağlılıklarını yenileyen ve kuvvetlendiren bir metindir. Burada üzerinde durulan Hakîkat-i Muhammedî ve Nûr-ı Muhammedî meselesinin temel saiki, varlığın merkezine Hz. Peygamber’i koyarak bir varlık anlayışına ve bir dünya tasavvuruna ulaşmaktır. Süleyman Çelebi bu derin felsefi mülahazayı eserinde muhteşem üslûbuyla dile getirmiştir. Geriye bıraktığı biricik eseriyle Süleyman Çelebi, altı yüz yıldır bu toprakları mayalamanın yanında; Rumca, Arapça, İngilizce, Almanca, Boşnakça, Arnavutça, Çerkesçe ve Gürcüce’ye yapılan çevirileriyle oldukça geniş bir kültür havzasına sesleniyor.",
+   "size": 20928024,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 2131,
+     "sha256": "560c065cf3195872dcbdf9af7970a905529380f6a1ec88b0e2d09ef4c70c204c"
+    },
+    {
+     "path": "mevlid-kulliyati-1.pdf",
+     "size": 20762270,
+     "sha256": "9955ed4b12f8f394906b6830677fff8292a624e6c5c71734aeee13a72b849768"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 163623,
+     "sha256": "d4fef9ef98f17038208036ccbe126a95ccf7076283a4d888a1439693f8fce1da"
+    }
+   ]
+  },
+  {
+   "id": "peygamberimiz-ve-aile",
+   "version": 1,
+   "format": "text",
+   "title": "Peygamberimiz ve Aile",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#2E7D6B",
+   "coverImage": "cover.jpg",
+   "author": "Diyanet İşleri Başkanlığı",
+   "description": "Bir aile sahibi olmak fıtrî bir duygudur. Bir yuva kurmak ve hayatı bir aile ortamında sürdürmek, hayatın olmazsa olmazıdır. Sevgi, şefkat ve merhametle dolu bir ailede doğup büyüyen insan, hayata ve insana aynı duygularla bakar. Bu bakımdan sevgi, şefkat ve merhametin hâkim olduğu bir aile iklimi, insanların, toplumların ve yeryüzünün huzuru için vazgeçilmezdir.” Kur’ân-ı Kerîm insana ve insanlar üzerinden topluma hitap eder. Bu yüzden insan ve insanın yetişmesinde büyük öneme sahip olan ailenin Kur’ân-ı Kerîm’de özel bir yeri vardır. Aynı zamanda toplumun en küçük birimi olan ailedeki mutluluk ve huzurun, toplumsal mutluluk ve huzurun temin edilmesindeki vazgeçilmez şart olduğunu en güzel örnekleriyle Hz. Peygamber’in aile yaşantısında görmek mümkündür. Her türlü değerin itibarsızlaştırıldığı, bireyselliğin şekillendirdiği bencilliğin ve çıkar ilişkilerinin girdabı içinde huzur ve sekinetin kaybedildiği, sevginin maddi kaygı, özenti ve gösterişe hapsedilip buharlaştığı bir çağdayız. Popüler kültürün, lüks, tüketim ve güç tutkusunun tetiklediği dünyevileşme hastalığının hayatı çepeçevre kuşattığı modern zamanda, bu durumdan en çok etkilenen yapı hiç şüphesiz aile olmuştur. Bu noktada aile yapısının geleceği ne olacak? sorusunun cevabı aranmış ve bu itibarla, nebevi ilke ve değerleri kuşandığımız mutlu bir hayatın, ideal bir topluma ve daha güzel bir dünyaya uzanan yolda önümüzü aydınlatarak ailelerin gerçek manada, bütün boyutlarıyla huzur yuvası olmasına katkı sunması temennisiyle elinizdeki eser istifadenize sunulmuştur.",
+   "size": 290746,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 213391,
+     "sha256": "913a276e369c494cbc5fd472148d81d12b69fdfdc8d642fa3d29d9128fe7b06d"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 77355,
+     "sha256": "29acaf0003228dcfcc5b3b4b3804efb7c5119625e6216390b9b09b9b66108b03"
+    }
+   ]
+  },
+  {
+   "id": "ramazanin-bereketi-oruc",
+   "version": 1,
+   "format": "text",
+   "title": "Ramazanın Bereketi Oruç",
+   "kind": "kitap",
+   "shelf": "books",
+   "lang": "tr",
+   "cover": "#1F6E8C",
+   "coverImage": "cover.jpg",
+   "author": "Rukiye Aydoğdu Demir",
+   "description": "Ramazan rahmet ayıdır, Kur’an ayıdır, on bir ayın sultanıdır. Oruç ise; temizler, arındırır, eğitir, değiştirir, yüceltir ve korur. “Ramazanın Bereketi Oruç” adlı eser, hem Ramazan ayının özelliğinin ve güzelliğinin farkına varılması hem de oruç ibadeti üzerine genel bilgiler edinilmesi için hazırlanmıştır.",
+   "size": 97559,
+   "files": [
+    {
+     "path": "book.json",
+     "size": 54000,
+     "sha256": "27c4f2c19747ecfc588ce76349a607cce8009169e840169e419e50e16948e608"
+    },
+    {
+     "path": "cover.jpg",
+     "size": 43559,
+     "sha256": "a455957f980d14b2ae146d30d1e2dd1cde3b331bf77a8464224123fb97eb0e47"
     }
    ]
   }
