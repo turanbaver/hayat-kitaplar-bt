@@ -1,0 +1,93 @@
+{
+ "id": "delailul-hayrat",
+ "version": 1,
+ "format": "pdf",
+ "file": "delailul-hayrat.pdf",
+ "title": "Delâilü'l-Hayrât",
+ "subtitle": "Salavât-ı şerîfe · haftalık virdler",
+ "lang": "ar-tr",
+ "kind": "kitap",
+ "shelf": "books",
+ "cover": "#6B4423",
+ "coverImage": "cover.jpg",
+ "author": "Süleyman el-Cezûlî",
+ "description": "Süleyman el-Cezûlî'nin salavât-ı şerîfe kitabı: önsöz, mukaddime, dualar, Esmâü'l-Hüsnâ, Esmâ-i Nebî, haftanın günlerine ayrılmış virdler ve hatim duası. Arapça metin resim olduğu için PDF olduğu gibi eklendi.",
+ "direction": "ltr",
+ "source": "Kullanıcının verdiği PDF (hazırlayan: Ebubekir Tanrıkulu, 2018)",
+ "license": "",
+ "toc": [
+  {
+   "title": "Önsöz",
+   "page": 3
+  },
+  {
+   "title": "Mukaddime",
+   "page": 5
+  },
+  {
+   "title": "İstiğfar Duası",
+   "page": 25
+  },
+  {
+   "title": "Niyet Duası",
+   "page": 26
+  },
+  {
+   "title": "İftitah Duası",
+   "page": 29
+  },
+  {
+   "title": "Esmâü'l-Hüsnâ",
+   "page": 32
+  },
+  {
+   "title": "Tevfik Duası",
+   "page": 36
+  },
+  {
+   "title": "Esmâ-i Nebî",
+   "page": 39
+  },
+  {
+   "title": "Pazartesi Virdi",
+   "page": 50
+  },
+  {
+   "title": "Salı Virdi",
+   "page": 70
+  },
+  {
+   "title": "Çarşamba Virdi",
+   "page": 92
+  },
+  {
+   "title": "Perşembe Virdi",
+   "page": 113
+  },
+  {
+   "title": "Cuma Virdi",
+   "page": 135
+  },
+  {
+   "title": "Cumartesi Virdi",
+   "page": 162
+  },
+  {
+   "title": "Pazar Virdi",
+   "page": 186
+  },
+  {
+   "title": "2. Pazartesi Virdi",
+   "page": 208
+  },
+  {
+   "title": "Hatim Duası",
+   "page": 219
+  },
+  {
+   "title": "Beyitler",
+   "page": 225
+  }
+ ],
+ "chapters": []
+}
