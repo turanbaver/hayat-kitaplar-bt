@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-24T13:45:14.652Z",
+ "updatedAt": "2026-10-24T14:55:21.513Z",
  "books": [
   {
    "id": "allaha-iman",
@@ -30,7 +30,7 @@
   },
   {
    "id": "amme",
-   "version": 2,
+   "version": 3,
    "format": "text",
    "title": "Amme Cüzü",
    "subtitle": "Nebe' sûresinden Nâs sûresine",
@@ -40,12 +40,12 @@
    "cover": "#3B4E7A",
    "author": "Diyanet İşleri Başkanlığı (Arapça metin)",
    "description": "Nebe' sûresinden Nâs sûresine Kur'an-ı Kerîm'in son cüzü — Diyanet mushafı imlâsıyla, mealli.",
-   "size": 107574,
+   "size": 110039,
    "files": [
     {
      "path": "book.json",
-     "size": 107574,
-     "sha256": "b80a68ce1059fd3d3b8eae0bf8e7f76c7670cd53770cdf17a1c67339cfe2d3c7"
+     "size": 110039,
+     "sha256": "ff25931f46db0e35bef506904c58d0ecefc7b57e69cf898e4edf3711832be891"
     }
    ]
   },
@@ -218,7 +218,7 @@
   },
   {
    "id": "kuran-i-kerim",
-   "version": 2,
+   "version": 3,
    "format": "text",
    "title": "Kur'an-ı Kerîm",
    "subtitle": "114 sûre · Arapça ve meal · Diyanet mushafı sayfa düzeni",
@@ -229,12 +229,12 @@
    "coverImage": "cover.jpg",
    "author": "Tanzil Projesi (Arapça) · Diyanet İşleri (meal)",
    "description": "Kur'an-ı Kerîm'in tamamı: 114 sûre, 6236 âyet. Arapça metin Tanzil Projesi'nin doğrulanmış Uthmani metninden harfi harfine; meal Diyanet İşleri Başkanlığı. Sûre sûre ya da Medine mushafı düzeninde sayfa sayfa (604 sayfa, 30 cüz) okunur.",
-   "size": 2608312,
+   "size": 2615920,
    "files": [
     {
      "path": "book.json",
-     "size": 2537461,
-     "sha256": "9486f453af5bc0fb04550a2288354a9909a807151aa9e8f58ae3a25e2616a6ef"
+     "size": 2545069,
+     "sha256": "95964038d2b96c8c62ffb679a7d1c08ac33f94287e87fc721a3183e74c3c3913"
     },
     {
      "path": "cover.jpg",
@@ -542,7 +542,7 @@
   },
   {
    "id": "yasin-serif",
-   "version": 2,
+   "version": 3,
    "format": "text",
    "title": "Yâsîn-i Şerîf",
    "subtitle": "Yâsîn, Mülk, Nebe, Kehf, Fetih, Rahmân, Vâkıa, Cuma ve kısa sûreler",
@@ -552,12 +552,12 @@
    "cover": "#2C5E4F",
    "author": "Diyanet İşleri Başkanlığı (Arapça metin)",
    "description": "Yâsîn-i Şerîf ile Mülk, Nebe', Kehf, Fetih, Rahmân, Vâkıa, Cuma sûreleri, Âyetü'l-Kürsî, Âmene'r-Rasûlü ve namazda okunan kısa sûreler — Diyanet mushafı imlâsıyla, mealli.",
-   "size": 167831,
+   "size": 169116,
    "files": [
     {
      "path": "book.json",
-     "size": 167831,
-     "sha256": "a018410cae1989bfb69657a3fc9cae30c114a9f485e46f089476e0399b6f79cf"
+     "size": 169116,
+     "sha256": "f9980141f692deeea7ddde688778ca7a8e4e19dfd98ec47bfbcc8d20a2041911"
     }
    ]
   }
