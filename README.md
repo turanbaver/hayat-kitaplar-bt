@@ -49,3 +49,13 @@ metin kitapta elle +1). Aksi halde telefonlar değişikliği almaz.
 
 GitHub önbelleği yüzünden yeni yüklenen kitabın görünmesi birkaç dakika
 sürebilir.
+
+## Zikirler
+
+```
+zikir/catalog.json        ← indirilebilir zikir derlemeleri (Zikir → Zikir indir)
+```
+
+Üretici: `tools/zikir/build-gazali.py` (Arapça metin kaynak dosyadan aynen;
+elle dini metin yazılmaz). Uygulama telefona indirilen zikri sıradan bir zikir
+olarak ekler; kod `dl:<derleme>:<id>`.

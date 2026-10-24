@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "id": "gazali-bidaye",
+      "version": 1,
+      "title": "İmam Gazâlî — Sabah Evrâdı",
+      "subtitle": "Bidâyetü'l-Hidâye · 10 zikir",
+      "work": "İmam Gazâlî, Bidâyetü'l-Hidâye",
+      "description": "İmam Gazâlî'nin Bidâyetü'l-Hidâye'de sabah namazından güneş doğana kadar okunmasını tavsiye ettiği on zikir (İhyâ, Kitâbü'l-Evrâd'da da yer alır).",
+      "instruction": "Her biri yüz, yetmiş ya da en az on kere okunur; böylece toplam en az yüz olur. Güneş doğana kadar araya söz karıştırılmaz.",
+      "sourceNote": "Arapça metinler Bidâyetü'l-Hidâye ve İhyâu Ulûmi'd-Dîn (Kitâbü'l-Evrâd, Bâb 1) ile kelime kelime karşılaştırıldı; âyet iktibasları Tanzil ile, hadis numaraları Kütüb-i Sitte neşirleriyle kontrol edildi (Buhârî: Fethu'l-Bârî, Müslim: M. F. Abdülbâki numarası).",
+      "items": [
+        {
+          "id": "01",
+          "name": "Tehlîl (uzun)",
+          "ar": "لَا إِلَٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+          "okunus": "Lâ ilâhe illallâhu vahdehû lâ şerîke leh, lehü'l-mülkü ve lehü'l-hamd, yuhyî ve yümît, ve hüve hayyün lâ yemût, biyedihi'l-hayr, ve hüve alâ külli şey'in kadîr.",
+          "anlam": "Allah'tan başka ilâh yoktur; O tektir, ortağı yoktur. Mülk O'nundur, hamd O'nadır. Diriltir ve öldürür; O diridir, ölmez. Hayır O'nun elindedir ve O her şeye kādirdir.",
+          "kaynak": "Tam lafız: Tirmizî 3428 (Hz. Ömer). Sabah namazından sonra on kere okunması: Tirmizî 3474 (Ebû Zer) — bu rivayette \"ve hüve hayyün lâ yemût, biyedihi'l-hayr\" kısmı yoktur.",
+          "target": 10
+        },
+        {
+          "id": "02",
+          "name": "Tehlîl — el-Meliku'l-Hakku'l-Mübîn",
+          "ar": "لَا إِلَٰهَ إِلَّا اللهُ الْمَلِكُ الْحَقُّ الْمُبِينُ",
+          "okunus": "Lâ ilâhe illallâhu'l-Meliku'l-Hakku'l-Mübîn.",
+          "anlam": "Allah'tan başka ilâh yoktur; O gerçek ve apaçık hükümdardır.",
+          "kaynak": "Hz. Ali'den rivayet edilir (Irâkî, İhyâ tahrici); senedi zayıf sayılmıştır.",
+          "target": 10
+        },
+        {
+          "id": "03",
+          "name": "Tehlîl — el-Vâhidü'l-Kahhâr",
+          "ar": "لَا إِلَٰهَ إِلَّا اللهُ الْوَاحِدُ الْقَهَّارُ، رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا، الْعَزِيزُ الْغَفَّارُ",
+          "okunus": "Lâ ilâhe illallâhu'l-Vâhidü'l-Kahhâr, Rabbü's-semâvâti ve'l-ardı ve mâ beynehümâ, el-Azîzü'l-Gaffâr.",
+          "anlam": "Allah'tan başka ilâh yoktur; O tek ve kahredicidir; göklerin, yerin ve ikisi arasındakilerin Rabbidir; Azîz'dir, çok bağışlayıcıdır.",
+          "kaynak": "Sâd 38/65-66'dan iktibas: âyetteki \"ve mâ min ilâhin\" yerine \"lâ ilâhe\" ile başlar, devamı âyet lafzıdır.",
+          "target": 10,
+          "note": "Bu zikir yalnız Bidâye'dedir; İhyâ'da yerinde istiâze vardır."
+        },
+        {
+          "id": "04",
+          "name": "Bâkıyât-ı sâlihât",
+          "ar": "سُبْحَانَ اللهِ، وَالْحَمْدُ لِلّٰهِ، وَلَا إِلَٰهَ إِلَّا اللهُ، وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ",
+          "okunus": "Sübhânallâhi ve'l-hamdü lillâhi ve lâ ilâhe illallâhu vallâhu ekber, ve lâ havle ve lâ kuvvete illâ billâhi'l-Aliyyi'l-Azîm.",
+          "anlam": "Allah'ı tenzih ederim, hamd Allah'adır, Allah'tan başka ilâh yoktur, Allah en büyüktür; güç ve kuvvet ancak yüce ve azîm olan Allah'ın yardımıyladır.",
+          "kaynak": "Kısa şekli: Müslim 2695 (Ebû Hüreyre). \"Lâ havle ve lâ kuvvete\" ilaveli şekli İbn Hibbân ve Hâkim'de (Ebû Saîd el-Hudrî); senedi zayıf görülmüştür.",
+          "target": 10
+        },
+        {
+          "id": "05",
+          "name": "Sübbûhun Kuddûs",
+          "ar": "سُبُّوحٌ قُدُّوسٌ رَبُّ الْمَلَائِكَةِ وَالرُّوحِ",
+          "okunus": "Sübbûhun Kuddûsün Rabbü'l-melâiketi ve'r-Rûh.",
+          "anlam": "Her noksandan münezzeh, her yönüyle mukaddes olan; meleklerin ve Rûh'un Rabbi.",
+          "kaynak": "Müslim 487 (Hz. Âişe): Peygamberimiz rükû ve secdede böyle derdi.",
+          "target": 10
+        },
+        {
+          "id": "06",
+          "name": "Sübhânallâhi ve bihamdihî",
+          "ar": "سُبْحَانَ اللهِ وَبِحَمْدِهِ، سُبْحَانَ اللهِ الْعَظِيمِ",
+          "okunus": "Sübhânallâhi ve bihamdihî, sübhânallâhi'l-Azîm.",
+          "anlam": "Allah'ı hamdiyle tesbih ederim; azîm olan Allah'ı tesbih ederim.",
+          "kaynak": "Buhârî 6682, 7563; Müslim 2694 (Ebû Hüreyre). Buhârî 6406'da iki cümle ters sıradadır.",
+          "target": 10,
+          "note": "İhyâ'da \"Sübhânallâhi'l-Azîmi ve bihamdihî\" şeklindedir (Tirmizî 3464)."
+        },
+        {
+          "id": "07",
+          "name": "İstiğfâr",
+          "ar": "أَسْتَغْفِرُ اللهَ الْعَظِيمَ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ، وَأَسْأَلُهُ التَّوْبَةَ وَالْمَغْفِرَةَ",
+          "okunus": "Estağfirullâhe'l-Azîm ellezî lâ ilâhe illâ hüve'l-Hayyü'l-Kayyûm, ve es'elühü't-tevbete ve'l-mağfirah.",
+          "anlam": "Kendisinden başka ilâh olmayan, Hayy ve Kayyûm olan azîm Allah'tan bağışlanma dilerim; O'ndan tevbe ve mağfiret isterim.",
+          "kaynak": "Tirmizî 3577 (\"…ve etûbu ileyh\" ile biter); Ebû Dâvûd 1517 (\"el-Azîm\" olmadan).",
+          "target": 10,
+          "note": "İhyâ'da \"…ve es'elühü't-tevbe\" ile biter."
+        },
+        {
+          "id": "08",
+          "name": "Allâhümme lâ mânia",
+          "ar": "اللّٰهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا رَادَّ لِمَا قَضَيْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+          "okunus": "Allâhümme lâ mânia limâ a'tayt, ve lâ mu'tıye limâ mena't, ve lâ râdde limâ kadayt, ve lâ yenfeu ze'l-ceddi minke'l-cedd.",
+          "anlam": "Allah'ım! Senin verdiğine engel olacak, engellediğini verecek, hükmettiğini geri çevirecek yoktur. Zenginlik ve makam sahibine, Sana karşı o zenginlik ve makamı fayda vermez.",
+          "kaynak": "Buhârî 844; Müslim 593 (Muğîre b. Şu'be; farz namazlardan sonra). \"Ve lâ râdde limâ kadayt\" kısmı bu rivayetlerde yoktur; Bidâye lafzıdır.",
+          "target": 10,
+          "note": "İhyâ'da \"ve lâ râdde limâ kadayt\" kısmı yoktur."
+        },
+        {
+          "id": "09",
+          "name": "Salavât",
+          "ar": "اللّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ وَصَحْبِهِ وَسَلِّمْ",
+          "okunus": "Allâhümme salli alâ Muhammedin ve alâ âli Muhammedin ve sahbihî ve sellim.",
+          "anlam": "Allah'ım! Muhammed'e, âline ve ashabına salât ve selâm eyle.",
+          "kaynak": "Müslim 384: Bir salavat getirene Allah on rahmet eder.",
+          "target": 10,
+          "note": "İhyâ lafzı: اللّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ عَبْدِكَ وَنَبِيِّكَ وَرَسُولِكَ النَّبِيِّ الْأُمِّيِّ وَعَلَىٰ آلِهِ وَصَحْبِهِ وَسَلِّمْ"
+        },
+        {
+          "id": "10",
+          "name": "Bismillâhillezî lâ yedurru",
+          "ar": "بِسْمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ، وَهُوَ السَّمِيعُ الْعَلِيمُ",
+          "okunus": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardı ve lâ fi's-semâ', ve hüve's-Semîu'l-Alîm.",
+          "anlam": "İsmiyle birlikte yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın adıyla. O işitendir, bilendir.",
+          "kaynak": "Ebû Dâvûd 5088; Tirmizî 3388; İbn Mâce 3869 (Hz. Osman): sabah ve akşam üçer kere okuyana bir şey zarar vermez.",
+          "target": 10
+        }
+      ]
+    }
+  ]
+}
