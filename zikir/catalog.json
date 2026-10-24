@@ -1,14 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "collections": [
     {
       "id": "gazali-bidaye",
-      "version": 1,
-      "title": "İmam Gazâlî — Sabah Evrâdı",
-      "subtitle": "Bidâyetü'l-Hidâye · 10 zikir",
+      "version": 2,
+      "title": "İmam Gazâlî'nin On Zikri",
+      "subtitle": "Bidâyetü'l-Hidâye",
       "work": "İmam Gazâlî, Bidâyetü'l-Hidâye",
-      "description": "İmam Gazâlî'nin Bidâyetü'l-Hidâye'de sabah namazından güneş doğana kadar okunmasını tavsiye ettiği on zikir (İhyâ, Kitâbü'l-Evrâd'da da yer alır).",
-      "instruction": "Her biri yüz, yetmiş ya da en az on kere okunur; böylece toplam en az yüz olur. Güneş doğana kadar araya söz karıştırılmaz.",
+      "description": "İmam Gazâlî'nin Bidâyetü'l-Hidâye'de tavsiye ettiği on zikir (İhyâ, Kitâbü'l-Evrâd'da da yer alır). Zikir her zaman okunabilir.",
+      "instruction": "İmam Gazâlî bu zikirleri sabah namazından sonra güneş doğana kadar, araya söz karıştırmadan okumayı tavsiye eder. Her biri yüz, yetmiş ya da en az on kere okunur; böylece toplam en az yüz olur.",
       "sourceNote": "Arapça metinler Bidâyetü'l-Hidâye ve İhyâu Ulûmi'd-Dîn (Kitâbü'l-Evrâd, Bâb 1) ile kelime kelime karşılaştırıldı; âyet iktibasları Tanzil ile, hadis numaraları Kütüb-i Sitte neşirleriyle kontrol edildi (Buhârî: Fethu'l-Bârî, Müslim: M. F. Abdülbâki numarası).",
       "items": [
         {
