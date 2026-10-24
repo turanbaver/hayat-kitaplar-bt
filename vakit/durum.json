@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-24 14:38",
+ "guncelleme": "2026-10-24 19:51",
  "dosyalar": [
   {
    "ilId": "500",
@@ -100,6 +100,104 @@
    "gun": 31
   },
   {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2026-10",
+   "ilce": 9,
+   "gun": 8
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2026-11",
+   "ilce": 9,
+   "gun": 23
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-01",
+   "ilce": 9,
+   "gun": 31
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-02",
+   "ilce": 9,
+   "gun": 28
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-03",
+   "ilce": 9,
+   "gun": 31
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-04",
+   "ilce": 9,
+   "gun": 30
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-05",
+   "ilce": 9,
+   "gun": 31
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-06",
+   "ilce": 9,
+   "gun": 30
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-07",
+   "ilce": 9,
+   "gun": 31
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-08",
+   "ilce": 9,
+   "gun": 31
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-09",
+   "ilce": 9,
+   "gun": 30
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-10",
+   "ilce": 9,
+   "gun": 31
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-11",
+   "ilce": 9,
+   "gun": 30
+  },
+  {
+   "ilId": "501",
+   "il": "ADIYAMAN",
+   "ay": "2027-12",
+   "ilce": 9,
+   "gun": 31
+  },
+  {
    "ilId": "502",
    "il": "AFYONKARAHİSAR",
    "ay": "2026-10",
@@ -198,6 +296,300 @@
    "gun": 31
   },
   {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2026-10",
+   "ilce": 7,
+   "gun": 8
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2026-11",
+   "ilce": 7,
+   "gun": 23
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-01",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-02",
+   "ilce": 7,
+   "gun": 28
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-03",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-04",
+   "ilce": 7,
+   "gun": 30
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-05",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-06",
+   "ilce": 7,
+   "gun": 30
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-07",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-08",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-09",
+   "ilce": 7,
+   "gun": 30
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-10",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-11",
+   "ilce": 7,
+   "gun": 30
+  },
+  {
+   "ilId": "503",
+   "il": "AĞRI",
+   "ay": "2027-12",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2026-10",
+   "ilce": 8,
+   "gun": 8
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2026-11",
+   "ilce": 8,
+   "gun": 23
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-01",
+   "ilce": 8,
+   "gun": 31
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-02",
+   "ilce": 8,
+   "gun": 28
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-03",
+   "ilce": 8,
+   "gun": 31
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-04",
+   "ilce": 8,
+   "gun": 30
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-05",
+   "ilce": 8,
+   "gun": 31
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-06",
+   "ilce": 8,
+   "gun": 30
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-07",
+   "ilce": 8,
+   "gun": 31
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-08",
+   "ilce": 8,
+   "gun": 31
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-09",
+   "ilce": 8,
+   "gun": 30
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-10",
+   "ilce": 8,
+   "gun": 31
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-11",
+   "ilce": 8,
+   "gun": 30
+  },
+  {
+   "ilId": "504",
+   "il": "AKSARAY",
+   "ay": "2027-12",
+   "ilce": 8,
+   "gun": 31
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2026-10",
+   "ilce": 7,
+   "gun": 8
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2026-11",
+   "ilce": 7,
+   "gun": 23
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-01",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-02",
+   "ilce": 7,
+   "gun": 28
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-03",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-04",
+   "ilce": 7,
+   "gun": 30
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-05",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-06",
+   "ilce": 7,
+   "gun": 30
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-07",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-08",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-09",
+   "ilce": 7,
+   "gun": 30
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-10",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-11",
+   "ilce": 7,
+   "gun": 30
+  },
+  {
+   "ilId": "505",
+   "il": "AMASYA",
+   "ay": "2027-12",
+   "ilce": 7,
+   "gun": 31
+  },
+  {
    "ilId": "506",
    "il": "ANKARA",
    "ay": "2026-10",
@@ -293,6 +685,300 @@
    "il": "ANKARA",
    "ay": "2027-12",
    "ilce": 17,
+   "gun": 31
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2026-10",
+   "ilce": 16,
+   "gun": 8
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2026-11",
+   "ilce": 16,
+   "gun": 23
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-01",
+   "ilce": 16,
+   "gun": 31
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-02",
+   "ilce": 16,
+   "gun": 28
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-03",
+   "ilce": 16,
+   "gun": 31
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-04",
+   "ilce": 16,
+   "gun": 30
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-05",
+   "ilce": 16,
+   "gun": 31
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-06",
+   "ilce": 16,
+   "gun": 30
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-07",
+   "ilce": 16,
+   "gun": 31
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-08",
+   "ilce": 16,
+   "gun": 31
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-09",
+   "ilce": 16,
+   "gun": 30
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-10",
+   "ilce": 16,
+   "gun": 31
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-11",
+   "ilce": 16,
+   "gun": 30
+  },
+  {
+   "ilId": "507",
+   "il": "ANTALYA",
+   "ay": "2027-12",
+   "ilce": 16,
+   "gun": 31
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2026-10",
+   "ilce": 6,
+   "gun": 8
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2026-11",
+   "ilce": 6,
+   "gun": 23
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-01",
+   "ilce": 6,
+   "gun": 31
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-02",
+   "ilce": 6,
+   "gun": 28
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-03",
+   "ilce": 6,
+   "gun": 31
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-04",
+   "ilce": 6,
+   "gun": 30
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-05",
+   "ilce": 6,
+   "gun": 31
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-06",
+   "ilce": 6,
+   "gun": 30
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-07",
+   "ilce": 6,
+   "gun": 31
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-08",
+   "ilce": 6,
+   "gun": 31
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-09",
+   "ilce": 6,
+   "gun": 30
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-10",
+   "ilce": 6,
+   "gun": 31
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-11",
+   "ilce": 6,
+   "gun": 30
+  },
+  {
+   "ilId": "508",
+   "il": "ARDAHAN",
+   "ay": "2027-12",
+   "ilce": 6,
+   "gun": 31
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2026-10",
+   "ilce": 4,
+   "gun": 8
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2026-11",
+   "ilce": 4,
+   "gun": 23
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-01",
+   "ilce": 4,
+   "gun": 31
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-02",
+   "ilce": 4,
+   "gun": 28
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-03",
+   "ilce": 4,
+   "gun": 31
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-04",
+   "ilce": 4,
+   "gun": 30
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-05",
+   "ilce": 4,
+   "gun": 31
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-06",
+   "ilce": 4,
+   "gun": 30
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-07",
+   "ilce": 4,
+   "gun": 31
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-08",
+   "ilce": 4,
+   "gun": 31
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-09",
+   "ilce": 4,
+   "gun": 30
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-10",
+   "ilce": 4,
+   "gun": 31
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-11",
+   "ilce": 4,
+   "gun": 30
+  },
+  {
+   "ilId": "509",
+   "il": "ARTVİN",
+   "ay": "2027-12",
+   "ilce": 4,
    "gun": 31
   },
   {
