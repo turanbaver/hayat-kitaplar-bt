@@ -1,0 +1,305 @@
+{
+  "id": "kuran-yolu-tefsir-5",
+  "version": 1,
+  "format": "pdf",
+  "file": "kuran-yolu-tefsir-5.pdf",
+  "title": "Kur'an Yolu Tefsiri · 5. Cilt",
+  "subtitle": "Câsiye–Nâs sûreleri",
+  "lang": "tr",
+  "kind": "kitap",
+  "shelf": "books",
+  "cover": "#1F4E79",
+  "coverImage": "cover.jpg",
+  "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
+  "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu cilt: Câsiye–Nâs sûreleri.",
+  "direction": "ltr",
+  "source": "Diyanet İşleri Başkanlığı Yayınları — 5. cilt, PDF olduğu gibi (dijital.diyanet.gov.tr); sayfalar değiştirilmedi.",
+  "license": "© Diyanet İşleri Başkanlığı — kişisel kullanım; yayından önce izin gereklidir.",
+  "toc": [
+    {
+      "title": "Giriş",
+      "page": 1
+    },
+    {
+      "title": "Câsiye Sûresi",
+      "page": 10
+    },
+    {
+      "title": "Ahkāf Sûresi",
+      "page": 25
+    },
+    {
+      "title": "Muhammed Sûresi",
+      "page": 44
+    },
+    {
+      "title": "Fetih Sûresi",
+      "page": 63
+    },
+    {
+      "title": "Hucurât Sûresi",
+      "page": 85
+    },
+    {
+      "title": "Kāf Sûresi",
+      "page": 103
+    },
+    {
+      "title": "Zâriyât Sûresi",
+      "page": 117
+    },
+    {
+      "title": "Tûr Sûresi",
+      "page": 140
+    },
+    {
+      "title": "Necm Sûresi",
+      "page": 156
+    },
+    {
+      "title": "Kamer Sûresi",
+      "page": 179
+    },
+    {
+      "title": "Rahmân Sûresi",
+      "page": 196
+    },
+    {
+      "title": "Vâkıa Sûresi",
+      "page": 216
+    },
+    {
+      "title": "Hadîd Sûresi",
+      "page": 234
+    },
+    {
+      "title": "Mücâdele Sûresi",
+      "page": 258
+    },
+    {
+      "title": "Haşr Sûresi",
+      "page": 281
+    },
+    {
+      "title": "Mümtehine Sûresi",
+      "page": 306
+    },
+    {
+      "title": "Saf Sûresi",
+      "page": 330
+    },
+    {
+      "title": "Cum‘a Sûresi",
+      "page": 342
+    },
+    {
+      "title": "Münâfikūn Sûresi",
+      "page": 356
+    },
+    {
+      "title": "Tegābün Sûresi",
+      "page": 368
+    },
+    {
+      "title": "Talâk Sûresi",
+      "page": 380
+    },
+    {
+      "title": "Tahrîm Sûresi",
+      "page": 401
+    },
+    {
+      "title": "Mülk Sûresi",
+      "page": 415
+    },
+    {
+      "title": "Kalem Sûresi",
+      "page": 428
+    },
+    {
+      "title": "Hâkka Sûresi",
+      "page": 441
+    },
+    {
+      "title": "Meâric Sûresi",
+      "page": 453
+    },
+    {
+      "title": "Nûh Sûresi",
+      "page": 462
+    },
+    {
+      "title": "Cin Sûresi",
+      "page": 470
+    },
+    {
+      "title": "Müzzemmil Sûresi",
+      "page": 483
+    },
+    {
+      "title": "Müddessir Sûresi",
+      "page": 492
+    },
+    {
+      "title": "Kıyâmet Sûresi",
+      "page": 503
+    },
+    {
+      "title": "İnsan Sûresi",
+      "page": 514
+    },
+    {
+      "title": "Mürselât Sûresi",
+      "page": 525
+    },
+    {
+      "title": "Nebe’ Sûresi",
+      "page": 534
+    },
+    {
+      "title": "Nâzi‘ât Sûresi",
+      "page": 544
+    },
+    {
+      "title": "Abese Sûresi",
+      "page": 553
+    },
+    {
+      "title": "Tekvîr Sûresi",
+      "page": 560
+    },
+    {
+      "title": "İnfitâr Sûresi",
+      "page": 568
+    },
+    {
+      "title": "Mutaffifîn Sûresi",
+      "page": 573
+    },
+    {
+      "title": "İnşikāk Sûresi",
+      "page": 583
+    },
+    {
+      "title": "Burûc Sûresi",
+      "page": 590
+    },
+    {
+      "title": "Târık Sûresi",
+      "page": 596
+    },
+    {
+      "title": "A‘lâ Sûresi",
+      "page": 601
+    },
+    {
+      "title": "Gāşiye Sûresi",
+      "page": 608
+    },
+    {
+      "title": "Fecr Sûresi",
+      "page": 615
+    },
+    {
+      "title": "Beled Sûresi",
+      "page": 624
+    },
+    {
+      "title": "Şems Sûresi",
+      "page": 629
+    },
+    {
+      "title": "Leyl Sûresi",
+      "page": 632
+    },
+    {
+      "title": "Duhâ Sûresi",
+      "page": 637
+    },
+    {
+      "title": "İnşirâh Sûresi",
+      "page": 642
+    },
+    {
+      "title": "Tîn Sûresi",
+      "page": 646
+    },
+    {
+      "title": "Alak Sûresi",
+      "page": 650
+    },
+    {
+      "title": "Kadr Sûresi",
+      "page": 658
+    },
+    {
+      "title": "Beyyine Sûresi",
+      "page": 662
+    },
+    {
+      "title": "Zilzâl Sûresi",
+      "page": 667
+    },
+    {
+      "title": "Âdiyât Sûresi",
+      "page": 671
+    },
+    {
+      "title": "Kāria Sûresi",
+      "page": 674
+    },
+    {
+      "title": "Tekâsür Sûresi",
+      "page": 677
+    },
+    {
+      "title": "Asr Sûresi",
+      "page": 681
+    },
+    {
+      "title": "Hümeze Sûresi",
+      "page": 685
+    },
+    {
+      "title": "Fîl Sûresi",
+      "page": 688
+    },
+    {
+      "title": "Kureyş Sûresi",
+      "page": 692
+    },
+    {
+      "title": "Mâûn Sûresi",
+      "page": 697
+    },
+    {
+      "title": "Kevser Sûresi",
+      "page": 701
+    },
+    {
+      "title": "Kâfirûn Sûresi",
+      "page": 704
+    },
+    {
+      "title": "Nasr Sûresi",
+      "page": 707
+    },
+    {
+      "title": "Tebbet Sûresi",
+      "page": 710
+    },
+    {
+      "title": "İhlâs Sûresi",
+      "page": 714
+    },
+    {
+      "title": "Felak Sûresi",
+      "page": 719
+    },
+    {
+      "title": "Nâs Sûresi",
+      "page": 724
+    }
+  ],
+  "chapters": []
+}

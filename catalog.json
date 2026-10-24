@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-10-16T20:46:04.643Z",
+ "updatedAt": "2026-10-24T12:06:55.219Z",
  "books": [
   {
    "id": "allaha-iman",
@@ -378,29 +378,29 @@
    ]
   },
   {
-   "id": "kuran-yolu-tefsir-4-1",
+   "id": "kuran-yolu-tefsir-4",
    "version": 1,
    "format": "pdf",
-   "title": "Kur'an Yolu Tefsiri · 4. Cilt (1. kısım)",
-   "subtitle": "Mü’minûn–Ahzâb sûreleri",
+   "title": "Kur'an Yolu Tefsiri · 4. Cilt",
+   "subtitle": "Mü’minûn–Duhân sûreleri",
    "kind": "kitap",
    "shelf": "books",
    "lang": "tr",
    "cover": "#1F4E79",
    "coverImage": "cover.jpg",
    "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
-   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu kısım: Mü’minûn–Ahzâb sûreleri.",
-   "size": 31026718,
+   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu cilt: Mü’minûn–Duhân sûreleri.",
+   "size": 57376555,
    "files": [
     {
      "path": "book.json",
-     "size": 2321,
-     "sha256": "35b3c30359c92f8f2ce945ed551333a4be6a75af1e63f55305aa9d93556b2bcb"
+     "size": 3097,
+     "sha256": "f866d7f13c3d2e336aa99ea7648fe82d040109205399bd0a1d9ec3cd2856c2bb"
     },
     {
-     "path": "kuran-yolu-tefsir-4-1.pdf",
-     "size": 30839123,
-     "sha256": "59fd6a80a13e6a1268362dcbf2b9d942c18ba2772580a50f1c137f27e1c0be6b"
+     "path": "kuran-yolu-tefsir-4.pdf",
+     "size": 57188184,
+     "sha256": "6344d802fe0c0be1660ba0254944c58855b81141d3e9db9b82307dc5ff0ab2ed"
     },
     {
      "path": "cover.jpg",
@@ -410,93 +410,29 @@
    ]
   },
   {
-   "id": "kuran-yolu-tefsir-4-2",
+   "id": "kuran-yolu-tefsir-5",
    "version": 1,
    "format": "pdf",
-   "title": "Kur'an Yolu Tefsiri · 4. Cilt (2. kısım)",
-   "subtitle": "Sebe’–Duhân sûreleri",
+   "title": "Kur'an Yolu Tefsiri · 5. Cilt",
+   "subtitle": "Câsiye–Nâs sûreleri",
    "kind": "kitap",
    "shelf": "books",
    "lang": "tr",
    "cover": "#1F4E79",
    "coverImage": "cover.jpg",
    "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
-   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu kısım: Sebe’–Duhân sûreleri.",
-   "size": 27648631,
+   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu cilt: Câsiye–Nâs sûreleri.",
+   "size": 55001745,
    "files": [
     {
      "path": "book.json",
-     "size": 2283,
-     "sha256": "e18ec5238106e7719e35b44ecbf9439e3d80a562aef67c4a502c1bf6c3b614e1"
+     "size": 6174,
+     "sha256": "56fccac9ea3671a66c27c50ecff365717cd4c2cf96a411828db0d2b2112c1ebd"
     },
     {
-     "path": "kuran-yolu-tefsir-4-2.pdf",
-     "size": 27461074,
-     "sha256": "9d5a07544cb51750b6e1eba6cda7876834c6ede64c35aee10f0ab2f886306acf"
-    },
-    {
-     "path": "cover.jpg",
-     "size": 185274,
-     "sha256": "41605711236f376517b979ce26a8ef01332c91f642c34eeabd34dba16386d703"
-    }
-   ]
-  },
-  {
-   "id": "kuran-yolu-tefsir-5-1",
-   "version": 1,
-   "format": "pdf",
-   "title": "Kur'an Yolu Tefsiri · 5. Cilt (1. kısım)",
-   "subtitle": "Câsiye–Talâk sûreleri",
-   "kind": "kitap",
-   "shelf": "books",
-   "lang": "tr",
-   "cover": "#1F4E79",
-   "coverImage": "cover.jpg",
-   "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
-   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu kısım: Câsiye–Talâk sûreleri.",
-   "size": 26310135,
-   "files": [
-    {
-     "path": "book.json",
-     "size": 2863,
-     "sha256": "909f9e64a5d48c22dd267add5387231374d863f53c214418f85cc4be894142bc"
-    },
-    {
-     "path": "kuran-yolu-tefsir-5-1.pdf",
-     "size": 26123641,
-     "sha256": "dd5877cae1e1e91ea9283fd8cbb6c0358c46507a0c3649781e8485847ad99c29"
-    },
-    {
-     "path": "cover.jpg",
-     "size": 183631,
-     "sha256": "5c7b7f99cd5f10a740ac70341cda1dd6132807c0b47ce55610793422d8c9291c"
-    }
-   ]
-  },
-  {
-   "id": "kuran-yolu-tefsir-5-2",
-   "version": 1,
-   "format": "pdf",
-   "title": "Kur'an Yolu Tefsiri · 5. Cilt (2. kısım)",
-   "subtitle": "Tahrîm–Nâs sûreleri",
-   "kind": "kitap",
-   "shelf": "books",
-   "lang": "tr",
-   "cover": "#1F4E79",
-   "coverImage": "cover.jpg",
-   "author": "Hayreddin Karaman, Mustafa Çağrıcı, İbrahim Kâfi Dönmez, Sadrettin Gümüş",
-   "description": "Tamamı beş cilt olan Kur’an Yolu Türkçe Meâl ve Tefsir adlı eserde Kur’an metni, meâli ve tefsiri yer almaktadır. Alanlarında uzman bir heyet tarafından yazılan tefsir, mushaf tertibine göre hazırlanmıştır ve âyetler hakkında özlü bilgiler içermektedir. Elinizdeki tefsir, günümüz Müslümanlarının ihtiyaçları göz önünde bulundurularak hazırlanmıştır. Farklı düzeylerde öğrenim görmüş insanlarımızın kolaylıkla anlayabilmesi için sade ve anlaşılır bir dil kullanılmıştır. Klasik tefsir birikiminden yararlanılan eser, alanlarında yetkin bilim insanlarından oluşan bir heyet tarafından kaleme alınmıştır. Baştan sona okunan, tekrar tekrar okunan ve üzerinde zihin yorulan; inanç, fikir ve hayata pratik katkı sağlayan bir tefsir olması için eser orta hacimde tutulmuştur. Bu kısım: Tahrîm–Nâs sûreleri.",
-   "size": 29971025,
-   "files": [
-    {
-     "path": "book.json",
-     "size": 4332,
-     "sha256": "882d776a3a6f9071ac636b0eaec86c7b4094e091d4511218fe533e00b0d70f7b"
-    },
-    {
-     "path": "kuran-yolu-tefsir-5-2.pdf",
-     "size": 29783062,
-     "sha256": "5e948aa6d9a4ac000b2ed2b21a14f75da80ff9d9d2f29f5cb3e905afb5fa3acc"
+     "path": "kuran-yolu-tefsir-5.pdf",
+     "size": 54811940,
+     "sha256": "886eb533702d4998117e229b6a77c90bfd96c426f2049a84b855221a68352ebe"
     },
     {
      "path": "cover.jpg",
